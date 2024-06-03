@@ -1,9 +1,9 @@
 Detecção de Nível de Petróleo
 
 Equipe
-    Ricardo Fernandes de Aquino (RM554597)
-    Kauã Soares Guimarães (RM559044)
-    Dayana Ticona Quispe (RM558023)
+    Ricardo Fernandes de Aquino (RM554597);
+    Kauã Soares Guimarães (RM559044);
+    Dayana Ticona Quispe (RM558023);
 Requisitos
     Python 3.11.7
     Dispositivo leitor de petróleo em Arduino (simulação feita com potenciômetro)
